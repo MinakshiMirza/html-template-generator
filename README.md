@@ -8,5 +8,4 @@ Run the script and follow the prompts to generate an HTML file.
 
 ## Visit My Website
 
-For more projects and tutorials, visit [My Website](https://inshotspro.com).
-
+I have developed my project, to see its design, visit [My Website](https://inshotspro.com).
