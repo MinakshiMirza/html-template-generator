@@ -8,4 +8,4 @@ Run the script and follow the prompts to generate an HTML file.
 
 ## Visit My Website
 
-I have developed my project, to see its design, visit [My Online Portal](https://inshotspro.com).
+I have developed my project, to see its design, visit [My Online Portal](https://inshotzpro.com).
